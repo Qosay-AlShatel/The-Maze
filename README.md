@@ -15,6 +15,18 @@ The player is moved through the maze using the following controls:
 - **Down**: Move down.  
 - **Left**: Move left.  
 - **Right**: Move right.
+
+
+##  Screenshots
+### Level 1
+![Level 1](./Screenshots/level-1.png)
+### Level 2
+![Level 2](./Screenshots/level-2.png)
+### Level 3
+![Level 3](./Screenshots/level-3.png)
+### Done
+![Done](./Screenshots/Done.png)
+
 ## Contribute
 Feel free to dive in! Open an issue or submit PRs. This game is still in development so suggestions and contributions are welcome.
 
