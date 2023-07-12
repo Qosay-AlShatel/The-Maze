@@ -27,7 +27,7 @@ The player is moved through the maze using the following controls:
 ### Done
 ![Done](./Screenshots/Done.png)
 
-## Contribute
+## Contributions
 Feel free to dive in! Open an issue or submit PRs. This game is still in development so suggestions and contributions are welcome.
 
 ## License
